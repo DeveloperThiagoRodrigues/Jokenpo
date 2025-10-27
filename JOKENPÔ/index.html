@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>JokenPô</h1>
+        
+        
+    <div class="buttons">
+        <button id="rock" onclick="playHuman('rock')">&#x270A;&#x1F3FC;</button> <!--Aqui estou dando um nome para a função do click do botao e mandando a informação -->
+        <button id="paper"onclick="playHuman('paper')">&#129306;&#127995;</button> <!--Aqui estou dando um nome para a função do click do botao e mandando a informação -->
+        <button id="scissors"onclick="playHuman('scissors')">&#9996;&#127996;</button> <!--Aqui estou dando um nome para a função do click do botao e mandando a informação -->
+    </div>    
+
+    <button class="play-btn" onclick="playRandom()">🎮 Jogar</button>
+        
+    <p class="result"></p>
+        <p class="your-score">Sua pontuação: <span id="human-score">0</span></p>
+        <p class="machine-score">Pontuação da Alexa: <span id="machine-score">0</span></p>
+    </div>
+
+    
+
+</body>
+<script src="/script.js"></script>
+</html>
