@@ -32,7 +32,7 @@ JavaScript (ES6) → lógica do jogo, sorteio e sons
 
 Baixe o projeto ou clone com:
 
-git clone https://github.com/SEU_USUARIO/jokenpo.git
+git clone (https://github.com/DeveloperThiagoRodrigues/Jokenpo/tree/main)
 
 
 Abra o arquivo index.html no seu navegador.
