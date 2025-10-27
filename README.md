@@ -42,4 +42,4 @@ Divirta-se jogando! 🎉
 👨‍💻 Autor
 
 Thiago Rodrigues
-🔗 GitHub
+https://github.com/DeveloperThiagoRodrigues
